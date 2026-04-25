@@ -1,0 +1,10 @@
+langgraph>=0.2.0
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+dnspython
+python-whois
+shodan
+requests
+langchain-ollama
+IPython
+langgraph-checkpoint-postgres
